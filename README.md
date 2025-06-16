@@ -31,7 +31,6 @@ I'm a self-taught full-stack developer passionate about building meaningful, fas
 ##  Connect With Me
 
 -  **Email:** dakshchauhan2002@gmail.com  
--  [Resume](https://drive.google.com/file/d/1dJtzVkIFoP9zyz6dBQcpqyY7mSCfGPV0/view?usp=sharing)  
 -  [GitHub](https://github.com/kami123kaze)  ( really is this even necessary ) 
 -  [LeetCode](https://leetcode.com/u/kamikaze2109/)  
  
