@@ -1,8 +1,42 @@
-# Hi, I'm Divyansh 👋
+# 👋 Hi, I'm Divyansh Chauhan
 
-- 🔭 I’m currently working on AI phone agents and full-stack web apps
-- 🌱 I’m learning systems design and PostgreSQL
-- 🧠 I solve DSA problems in C++ (500+ solved)
-- ⚡ Fun fact: I might share my fries if I like you enough 🍟
+I'm a self-taught full-stack developer passionate about building meaningful, fast-moving products. With over 15 full-stack projects shipped and 500+ DSA problems solved in C++, I thrive at the intersection of clean code, fast iteration, and purposeful design.
+
+- 🔨 Most comfortable in the **MERN stack**
+- 🧠 Currently building a **real-time AI phone agent** using Twilio, Deepgram, and OpenAI
+- 🌱 Learning **systems design**, **PostgreSQL**, and **smart contracts (Starknet)**
+- 💬 Open to freelance/contract roles, product building, or collaboration
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`JavaScript (ES6+)` · `C++` · `SQL` · `HTML5` · `CSS3`
+
+**Frontend:**  
+`React` · `Next.js` · `TailwindCSS` · `React Query` · `Shadcn/UI`
+
+**Backend:**  
+`Node.js` · `Express` · `FastAPI` · `Firebase` · `Appwrite`
+
+**Databases:**  
+`MongoDB` · `PostgreSQL` · `SQLite` · `Firebase Firestore`
+
+**Tools & Platforms:**  
+`Git` · `GitHub` · `Postman` · `Cloudinary` · `Netlify` · `Vercel` · `JWT` · `OAuth` · `Stripe`
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 **Email:** dakshchauhan2002@gmail.com  
+- 💼 [Resume](https://drive.google.com/file/d/1dJtzVkIFoP9zyz6dBQcpqyY7mSCfGPV0/view?usp=sharing)  
+- 🧑‍💻 [GitHub](https://github.com/kami123kaze)  ( really is this even necessary ) 
+- 🧠 [LeetCode](https://leetcode.com/u/kamikaze2109/)  
+ 
+
+---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kami123kaze&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kami123kaze&layout=compact&theme=radical)
