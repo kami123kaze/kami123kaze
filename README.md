@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Divyansh Chauhan
+#  Hi, I'm Divyansh Chauhan
 
 I'm a self-taught full-stack developer passionate about building meaningful, fast-moving products. With over 15 full-stack projects shipped and 500+ DSA problems solved in C++, I thrive at the intersection of clean code, fast iteration, and purposeful design.
 
-- 🔨 Most comfortable in the **MERN stack**
-- 🧠 Currently building a **real-time AI phone agent** using Twilio, Deepgram, and OpenAI
-- 🌱 Learning **systems design**, **PostgreSQL**, and **smart contracts (Starknet)**
-- 💬 Open to freelance/contract roles, product building, or collaboration
+-  Most comfortable in the **MERN stack**
+-  Currently building a **real-time AI phone agent** using Twilio, Deepgram, and OpenAI
+-  Learning **systems design**, **PostgreSQL**, and **smart contracts (Starknet)**
+-  Open to freelance/contract roles, product building, or collaboration
 
 ---
 
@@ -28,12 +28,12 @@ I'm a self-taught full-stack developer passionate about building meaningful, fas
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
-- 📧 **Email:** dakshchauhan2002@gmail.com  
-- 💼 [Resume](https://drive.google.com/file/d/1dJtzVkIFoP9zyz6dBQcpqyY7mSCfGPV0/view?usp=sharing)  
-- 🧑‍💻 [GitHub](https://github.com/kami123kaze)  ( really is this even necessary ) 
-- 🧠 [LeetCode](https://leetcode.com/u/kamikaze2109/)  
+-  **Email:** dakshchauhan2002@gmail.com  
+-  [Resume](https://drive.google.com/file/d/1dJtzVkIFoP9zyz6dBQcpqyY7mSCfGPV0/view?usp=sharing)  
+-  [GitHub](https://github.com/kami123kaze)  ( really is this even necessary ) 
+-  [LeetCode](https://leetcode.com/u/kamikaze2109/)  
  
 
 ---
