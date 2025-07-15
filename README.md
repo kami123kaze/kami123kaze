@@ -3,7 +3,6 @@
 I'm a self-taught full-stack developer passionate about building meaningful, fast-moving products. With over 15 full-stack projects shipped and 500+ DSA problems solved in C++, I thrive at the intersection of clean code, fast iteration, and purposeful design.
 
 -  Most comfortable in the **MERN stack**
--  Currently building a **real-time AI phone agent** using Twilio, Deepgram, and OpenAI
 -  Learning **systems design**, **PostgreSQL**, and **smart contracts (Starknet)**
 -  Open to freelance/contract roles, product building, or collaboration
 
